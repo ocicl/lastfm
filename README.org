@@ -1,0 +1,10 @@
+* lastfm
+
+Last.fm API for Common Lisp 
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mihaiolteanu/lastfm.git   |
+| commit  | e275e5e  |
+| systems | lastfm |
+|---------+-------------------------------------------|
+
